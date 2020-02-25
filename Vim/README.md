@@ -4,7 +4,7 @@
 
 - `vim fileName` open fileName
 - **press `esc` key** to exit from every mode that you actually are.
-  - in _esc mode_ you can move between line
+  - in _esc mode_ you can move between line (also via common arrow key)
     - **w** move to start of next word
     - **b** move to start of previous word
     - **0** move of line
