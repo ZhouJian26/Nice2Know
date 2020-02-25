@@ -12,25 +12,25 @@ Useful command
 
 ### Library
 
-- [iostream](https://github.com/zhou0998/C-Basic-Library-Get-Started#iostream)
-- [vector](https://github.com/zhou0998/C-Basic-Library-Get-Started#vector)
-- [string](https://github.com/zhou0998/C-Basic-Library-Get-Started#string)
-- [map](https://github.com/zhou0998/C-Basic-Library-Get-Started#map)
-- [queue](https://github.com/zhou0998/C-Basic-Library-Get-Started#queue--fifo-list)
-- [stack](https://github.com/zhou0998/C-Basic-Library-Get-Started#stack--lifo-list)
-- [heap](https://github.com/zhou0998/C-Basic-Library-Get-Started#heap)
-- [bitset](https://github.com/zhou0998/C-Basic-Library-Get-Started#bitset)
-- [algorithms](https://github.com/zhou0998/C-Basic-Library-Get-Started#algorithms)
-- [cmath](https://github.com/zhou0998/C-Basic-Library-Get-Started#cmath)
-- [fstream](https://github.com/zhou0998/C-Basic-Library-Get-Started#fstream)
+- [iostream](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#iostream)
+- [string](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#string)
+- [vector](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#vector)
+- [map](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#map)
+- [queue](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#queue--fifo-list)
+- [stack](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#stack--lifo-list)
+- [heap](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#heap)
+- [bitset](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#bitset)
+- [algorithms](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#algorithms)
+- [cmath](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#cmath)
+- [fstream](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#fstream)
 
 ### More
 
-- [break vs continue](https://github.com/zhou0998/C-Basic-Library-Get-Started#break-vs-continue)
-- [function overloading](https://github.com/zhou0998/C-Basic-Library-Get-Started#function-overloading)
-- [class | OOP](https://github.com/zhou0998/C-Basic-Library-Get-Started#class--oop)
-- [time execution](https://github.com/zhou0998/C-Basic-Library-Get-Started#a-tracker-for-time-execution)
-- [get input from terminal](https://github.com/zhou0998/C-Basic-Library-Get-Started#input-from-terminal)
+- [break vs continue](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#break-vs-continue)
+- [function overloading](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#function-overloading)
+- [class | OOP](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#class--oop)
+- [time execution](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#a-tracker-for-time-execution)
+- [get input from terminal](https://github.com/zhou0998/Nice2Know/blob/master/C%2B%2B/README.md#input-from-terminal)
 
 ## iostream
 
